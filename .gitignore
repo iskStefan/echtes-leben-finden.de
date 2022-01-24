@@ -1,1 +1,5 @@
 videos
+.vscode/targets.log
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/settings.json
