@@ -1,0 +1,147 @@
+body {
+  background-color: #9c9b99;
+  padding: 0px;
+  margin-top: 0px;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+h3 {
+  margin-left: 20px;
+}
+
+/* === Navigation ===*/
+.nav-link {
+  font-size: 15px;
+  color: white;
+}
+.nav-link .active {
+  color: #b6b7bb;
+  background-color: #444249;
+}
+
+nav.navbar.navbar-dark button:hover,
+nav.navbar.navbar-dark button:focus,
+nav.navbar.navbar-dark .nav-link:hover {
+  color: #dc3545;
+}
+
+.navbar-nav .badge {
+  position: absolute;
+  left: 25px;
+  bottom: 25px;
+}
+
+.active {
+  color: #b6b7bb;
+  background-color: #444249;
+}
+
+.container-fluid {
+  background-color: #b6b7bb;
+}
+
+.container {
+  padding: 5px;
+}
+
+.navbar-header {
+  background-color: #272f54;
+}
+
+.header_d2 {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: #9c9b99;
+  /* height: 320px; */
+  color: white;
+}
+.header_d2 h1 {
+  margin-left: 50px;
+}
+
+/* Download */
+#bdl {
+  width: 180px;
+  text-align: left;
+  margin-left: 15;
+}
+
+.btn-round {
+  border-radius: 10px;
+}
+
+/* === Footer ===*/
+.bg-black {
+  background-color: #333;
+}
+
+.impressum {
+  font-size: 20px;
+  color: white !important;
+}
+
+.creator {
+  font-size: 15px;
+}
+
+.text-article {
+  background-color: white;
+  font-size: 18px;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+/* === Testimonials ===*/
+.bg-standard {
+  background-color: #9c9b99;
+  color: white;
+}
+
+.testimonials-bg {
+  height: 100%;
+  background-color: #9c9b99;
+}
+
+#testimonial-carousel .carousel-control-prev,
+#testimonial-carousel .carousel-control-next {
+  width: 1%;
+  font-size: 36px;
+}
+
+#testimonial-carousel .carousel-indicators {
+  bottom: -30px;
+}
+
+#testimonial-carousel .carousel-indicators li {
+  max-width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* === Faktura2020 === */
+.kasten {
+  border: 1px;
+  border-color: #2b029c;
+  border-style: solid;
+  padding: 11px;
+  color: #333;
+  background-color: white;
+}
+
+/* === Icons === */
+.glyphicon {
+  font-size: 32px;
+}
+
+/* === Liste === */
+#id3 {
+  margin-left: 25px;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,290 @@
+@charset "UTF-8";
+body {
+  /* background-color: $primary-background-color; */
+  padding: 0px;
+  margin-top: 0px;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  font-size: 110%;
+  /* 18px; */
+}
+
+h3 {
+  margin-left: 20px;
+}
+
+section {
+  padding: 40px 0;
+}
+
+/* === Navigation ===*/
+.active {
+  color: #b6b7bb;
+  background-color: #444249;
+}
+
+.nav-link {
+  font-size: 15px;
+  color: white;
+}
+.nav-link .active {
+  color: #b6b7bb;
+  background-color: #444249;
+}
+
+.navbar-nav .badge {
+  position: absolute;
+  left: 25px;
+  bottom: 25px;
+}
+
+.container-fluid {
+  background-color: #b6b7bb;
+}
+
+.container {
+  padding: 5px;
+}
+
+.navbar-header {
+  background-color: #272f54;
+}
+
+.cont_offset {
+  padding-left: 20px;
+  /*
+  .card {
+    border: 1px;
+    border-color: $bg-color;
+    border-style: solid;
+    border-radius: 5px;
+  }
+  */
+}
+
+.header_d2 {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: #9c9b99;
+  /* height: 320px; */
+  color: white;
+}
+.header_d2 h1 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.header_d2 p {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.bg-hell {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: white;
+  /* height: 320px; */
+  color: #333;
+  /* $primary-background-color;*/
+}
+
+/* === Hero ===*/
+.hero-bg {
+  background: url("../../images/programmer-3266860_1920.jpg") 50% 0 fixed no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+#home .container {
+  height: 100%;
+}
+
+#home .row {
+  height: 80%;
+}
+
+/* Download */
+#bdl {
+  width: 180px;
+  text-align: left;
+  margin-left: 15;
+}
+
+.btn-round {
+  border-radius: 10px;
+}
+
+/* === Footer ===*/
+.bg-black {
+  background-color: #333;
+}
+
+.impressum {
+  font-size: 20px;
+  color: white !important;
+}
+
+.anschrift {
+  font-size: 20px;
+  background-color: #355269 !important;
+}
+
+.creator {
+  font-size: 15px;
+}
+
+.text-article {
+  background-color: white;
+  font-size: 18px;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+/* === Testimonials ===*/
+.bg-standard {
+  color: #9c9b99;
+  background-color: white;
+}
+
+.testimonials-bg {
+  height: 100%;
+  background-color: white;
+}
+
+#testimonial-carousel .carousel-control-prev,
+#testimonial-carousel .carousel-control-next {
+  width: 1%;
+  font-size: 36px;
+  color: #9c9b99;
+}
+
+#testimonial-carousel .carousel-indicators {
+  bottom: -5px;
+  margin-left: 30px;
+  width: 80px;
+  background-color: #333;
+}
+
+#testimonial-carousel .carousel-indicators li {
+  max-width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* === Faktura2020 === */
+.kasten {
+  border: 1px;
+  border-color: #2b029c;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 11px;
+  color: #333;
+  background-color: white;
+}
+
+.kasten_dunkel {
+  border: 1px;
+  border-color: #2b029c;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 11px;
+  color: white;
+  background-color: #9c9b99;
+}
+
+/* === Icons === */
+.glyphicon {
+  font-size: 32px;
+}
+
+/* === Liste === */
+#id3 {
+  margin-left: 25px;
+}
+
+/* === Bootstrap Änderungen === */
+.my-modal-title {
+  color: #2b029c;
+  font-weight: bold;
+}
+
+/*
+#btn-success2 {
+  background-color: $bg-success !important;
+}
+*/
+code {
+  background-color: lightyellow;
+  padding: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: 0;
+  border-radius: 3px;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 90%;
+}
+
+.caption {
+  font-style: italic;
+  font-size: 90%;
+}
+
+.figure img {
+  width: 100%;
+}
+
+.h2_top {
+  margin-top: -35px;
+  margin-bottom: 20px;
+}
+
+.h2_mid {
+  margin-top: 5%;
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin-top: 3%;
+  font-size: 120%;
+  font-weight: bold;
+  color: #180263;
+}
+
+blockquote {
+  font-size: 90%;
+  margin-left: 50px;
+  width: 60%;
+  padding-left: 4px;
+  border-left: blue solid 2px;
+}
+
+.zitat {
+  font-style: italic;
+  font-size: 90%;
+  margin-top: -12px;
+  margin-left: 50px;
+  padding-left: 6px;
+}
+
+.even {
+  margin-left: 15px;
+  background-color: #d6d5d1;
+}
+
+th {
+  padding: 0 5px;
+  border-bottom: 1px solid #d6d5d1;
+}
+
+td {
+  padding: 0 5px;
+}
+
+/*# sourceMappingURL=style.css.map */

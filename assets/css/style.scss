@@ -1,0 +1,313 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: white;
+$primary-background-color: #9c9b99;
+$selected-color: rgb(68, 66, 73);
+$title-color: #f9d404;
+$bg-title: #ecf0f1;
+$bg-color: #2b029c;
+$container-background: #b6b7bb;
+$nav-color: #dc3545;
+$bg-black: #333;
+$bg-success: #3dba0f;
+$bg-table2: #d6d5d1;
+
+$simple-line-font-path: "../fonts/Simple-Line-Icons";
+$simple-line-font-family: "30";
+$simple-line-icon-prefix: "";
+
+$margin_bottom_h2: "20px";
+
+body {
+  /* background-color: $primary-background-color; */
+  padding: 0px;
+  margin-top: 0px;
+  font-family: $font-stack;
+}
+
+p {
+  font-size: 110%;
+  /* 18px; */
+}
+
+h3 {
+  margin-left: 20px;
+}
+
+section {
+  padding: 40px 0;
+}
+
+/* === Navigation ===*/
+.active {
+  color: $container-background;
+  background-color: $selected-color;
+}
+
+.nav-link {
+  font-size: 15px;
+  color: $primary-color;
+
+  .active {
+    color: $container-background;
+    background-color: $selected-color;
+  }
+}
+
+.navbar-nav .badge {
+  position: absolute;
+  left: 25px;
+  bottom: 25px;
+}
+
+.container-fluid {
+  background-color: $container-background;
+}
+
+.container {
+  padding: 5px;
+}
+
+.navbar-header {
+  background-color: #272f54;
+}
+
+.cont_offset {
+  padding-left: 20px;
+  /*
+  .card {
+    border: 1px;
+    border-color: $bg-color;
+    border-style: solid;
+    border-radius: 5px;
+  }
+  */
+}
+
+.header_d2 {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: $primary-background-color;
+  /* height: 320px; */
+  color: $primary-color;
+
+  h1 {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  p {
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+}
+
+.bg-hell {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-left: 25px;
+  background-color: $primary-color;
+  /* height: 320px; */
+  color: $bg-black; /* $primary-background-color;*/
+}
+
+/* === Hero ===*/
+.hero-bg {
+  background: url("../../images/programmer-3266860_1920.jpg") 50% 0 fixed
+    no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+#home .container {
+  height: 100%;
+}
+
+#home .row {
+  height: 80%;
+}
+
+/* Download */
+#bdl {
+  width: 180px;
+  text-align: left;
+  margin-left: 15;
+}
+
+.btn-round {
+  border-radius: 10px;
+  //margin: 5px;
+}
+
+/* === Footer ===*/
+.bg-black {
+  background-color: $bg-black;
+}
+
+.impressum {
+  font-size: 20px;
+  color: $primary-color !important;
+}
+
+.anschrift {
+  font-size: 20px;
+  background-color: #355269 !important;
+}
+
+.creator {
+  font-size: 15px;
+}
+
+.text-article {
+  background-color: $primary-color;
+  font-size: 18px;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+/* === Testimonials ===*/
+.bg-standard {
+  color: $primary-background-color;
+  background-color: $primary-color;
+}
+
+.testimonials-bg {
+  height: 100%;
+  background-color: $primary-color;
+}
+
+#testimonial-carousel .carousel-control-prev,
+#testimonial-carousel .carousel-control-next {
+  width: 1%;
+  font-size: 36px;
+  color: $primary-background-color;
+}
+
+#testimonial-carousel .carousel-indicators {
+  bottom: -5px;
+  margin-left: 30px;
+  width: 80px;
+  background-color: $bg-black;
+}
+
+#testimonial-carousel .carousel-indicators li {
+  max-width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* === Faktura2020 === */
+
+.kasten {
+  border: 1px;
+  border-color: $bg-color;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 11px;
+  color: $bg-black;
+  background-color: $primary-color;
+}
+
+.kasten_dunkel {
+  border: 1px;
+  border-color: $bg-color;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 11px;
+  color: $primary-color;
+  background-color: $primary-background-color;
+}
+
+/* === Icons === */
+.glyphicon {
+  font-size: 32px;
+}
+
+/* === Liste === */
+#id3 {
+  margin-left: 25px;
+}
+
+/* === Bootstrap Änderungen === */
+.my-modal-title {
+  color: $bg-color;
+  font-weight: bold;
+}
+/*
+#btn-success2 {
+  background-color: $bg-success !important;
+}
+*/
+
+code {
+  background-color: lightyellow;
+  padding: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: blue($color: #000000);
+  border-radius: 3px;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 90%;
+}
+
+.caption {
+  font-style: italic;
+  font-size: 90%;
+}
+
+.figure {
+  img {
+    width: 100%;
+  }
+}
+
+.h2_top {
+  margin-top: -35px;
+  margin-bottom: #{$margin_bottom_h2};
+}
+
+.h2_mid {
+  margin-top: 5%;
+  margin-bottom: #{$margin_bottom_h2};
+}
+
+h4 {
+  margin-top: 3%;
+  font-size: 120%;
+  font-weight: bold;
+  color: rgb(24, 2, 99);
+}
+
+blockquote {
+  font-size: 90%;
+  margin-left: 50px;
+  width: 60%;
+  padding-left: 4px;
+  border-left: blue solid 2px;
+}
+
+.zitat {
+  font-style: italic;
+  font-size: 90%;
+  margin-top: -12px;
+  margin-left: 50px;
+  padding-left: 6px;
+}
+
+.even {
+  margin-left: 15px;
+  background-color: $bg-table2;
+}
+
+th {
+  padding: 0 5px;
+  border-bottom: 1px solid $bg-table2;
+}
+
+td {
+  padding: 0 5px;
+}
