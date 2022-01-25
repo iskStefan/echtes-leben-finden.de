@@ -11,17 +11,15 @@ require_once("assets/include/header.php");
 <div class="container">
 	<br>
 	<div class="jumbotron">
-<h2 class="h2_top">Herzlich willkommen bei der christlichen Gemeinde Marktoberdorf</h2>
-<p>Hier entsteht eine Internetseite von:</p>
-<p>“echtes-Leben-finden”</p>
+<h2 class="h2_top">Hier entsteht eine Internetseite von:</h2>
+<h2 class="h2_mid">“echtes-Leben-finden”</h2>
 <p>Startseite …wir bitten noch um etwas Geduld!</p>
-<p>Danke!</p>
+<p>Danke! <img src="images/IMG_9660.JPG" alt="Bickpunkte" class="img-fluid" /></p>
 
 	</div>
 
 </div>
 
 <?php
-require_once("assets/include/index_video.html");
 require_once("assets/include/footer.php");
 ?>

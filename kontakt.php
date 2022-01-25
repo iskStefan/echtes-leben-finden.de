@@ -11,8 +11,10 @@ require_once("assets/include/header.php");
 <div class="container">
 	<br>
 	<div class="jumbotron">
-<h2 class="h2_top">Kontakt zu Christen in Marktoberdorf</h2>
-<p>Der Ort für die Sonntags - Gottesdienste wird auf der Seite <a href="termine.php">Termine</a> bekannt gegeben. Wegen den Corona - Vorschriften kann es zu Änderungen kommen.</p>
+<h2 class="h2_top">Treffpunkt: Marktoberdorf</h2>
+<p>Es besteht unteranderem bei uns die Möglichkeit, am Sonntagsgottesdienst teilzunehmen.</p>
+<p>Wenn Sie interessiert sind schauen Sie doch vorbei: Ort und Zeitpunkt finden Sie auf der Seite: <a href="https://cgmod.de/Termine-N.htm">www.cgmod.de</a>.</p>
+<p>Wegen den Corona - Vorschriften kann es zu Änderungen kommen.</p>
 <h2 class="h2_mid">Kontaktadressen</h2>
 <table>
 <tr class="equal">
@@ -43,17 +45,9 @@ require_once("assets/include/header.php");
 </table>
 <p><br><br></p>
 <table>
-<colgroup>
-<col style="width: 7%" />
-<col style="width: 92%" />
-</colgroup>
 <tr class="equal">
 <td>E-Mail:</td>
-<td>info@cgmod.de</td>
-</tr>
-<tr class="equal">
-<td>Bankdaten:<br><br><br><br></td>
-<td>Christliche Gemeinde Marktoberdorf e.V.<br>IBAN: DE72 7209 0000 0001 1551 13<br>BIC: GENODEF1AUB<br>VR Bank Augsburg-Ostallgäu eG</td>
+<td>info@echtes-leben-finden.de</td>
 </tr>
 </table>
 

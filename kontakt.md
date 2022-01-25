@@ -1,5 +1,10 @@
-## Kontakt zu Christen in Marktoberdorf
-Der Ort für die Sonntags - Gottesdienste wird auf der Seite [Termine](termine.php) bekannt gegeben. Wegen den Corona - Vorschriften kann es zu Änderungen kommen.
+## Treffpunkt: Marktoberdorf
+Es besteht unteranderem bei uns die Möglichkeit, am Sonntagsgottesdienst teilzunehmen.
+
+Wenn Sie interessiert sind schauen Sie doch vorbei:
+Ort und Zeitpunkt finden Sie auf der Seite: [www.cgmod.de](https://cgmod.de/Termine-N.htm).
+
+Wegen den Corona - Vorschriften kann es zu Änderungen kommen.
 
 ## Kontaktadressen
 
@@ -14,9 +19,8 @@ Der Ort für die Sonntags - Gottesdienste wird auf der Seite [Termine](termine.p
 
 <br><br>
 
-|  |  |
-|---|------------------------------------|
-| E-Mail: | info@cgmod.de |
-| Bankdaten:<br><br><br><br> |Christliche Gemeinde Marktoberdorf e.V.<br>IBAN: DE72 7209 0000 0001 1551 13<br>BIC: GENODEF1AUB<br>VR Bank Augsburg-Ostallgäu eG|
+|            |                                                                                                                       |
+|------------|-----------------------------------------------------------------------------------------------------------------------|
+| E-Mail:    | info@echtes-leben-finden.de                                                                                           |
 
 

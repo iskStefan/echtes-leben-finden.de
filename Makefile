@@ -9,7 +9,7 @@ all: $(trg_files)
 	pandoc --from markdown --to html --output $*.html $*.md
 
 index.php: index.html index.md menu.txt
-	generate_php -v -n 1 -t $(titel) -f "index_video.html" index.html index.php
+	generate_php -v -n 1 -t $(titel) index.html index.php
 
 ueber_uns.php: ueber_uns.html ueber_uns.md
 	generate_php -v -n 2 -t $(titel) ueber_uns.html ueber_uns.php
