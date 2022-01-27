@@ -1,5 +1,5 @@
 ## Treffpunkt: Marktoberdorf
-Es besteht unteranderem bei uns die Möglichkeit, am Sonntagsgottesdienst teilzunehmen.
+Es besteht unter anderem bei uns die Möglichkeit, am Sonntagsgottesdienst teilzunehmen.
 
 Wenn Sie interessiert sind schauen Sie doch vorbei:
 Ort und Zeitpunkt finden Sie auf der Seite: [www.cgmod.de](https://cgmod.de/Termine-N.htm).

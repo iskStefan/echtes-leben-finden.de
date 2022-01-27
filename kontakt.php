@@ -12,7 +12,7 @@ require_once("assets/include/header.php");
 	<br>
 	<div class="jumbotron">
 <h2 class="h2_top">Treffpunkt: Marktoberdorf</h2>
-<p>Es besteht unteranderem bei uns die Möglichkeit, am Sonntagsgottesdienst teilzunehmen.</p>
+<p>Es besteht unter anderem bei uns die Möglichkeit, am Sonntagsgottesdienst teilzunehmen.</p>
 <p>Wenn Sie interessiert sind schauen Sie doch vorbei: Ort und Zeitpunkt finden Sie auf der Seite: <a href="https://cgmod.de/Termine-N.htm">www.cgmod.de</a>.</p>
 <p>Wegen den Corona - Vorschriften kann es zu Änderungen kommen.</p>
 <h2 class="h2_mid">Kontaktadressen</h2>
