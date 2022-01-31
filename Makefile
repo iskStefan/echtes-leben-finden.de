@@ -1,5 +1,5 @@
 #src_files = index.md ueber_uns.md
-trg_files = index.php ueber_uns.php kontakt.php impressum.php datenschutz.php
+trg_files = index.php ueber_uns.php kontakt.php impressum.php datenschutz.php impulse.php konditorei.php sehnsucht.php
 
 titel = "Echtes Leben finden"
 
@@ -22,6 +22,15 @@ impressum.php: impressum.html impressum.md
 
 datenschutz.php: datenschutz.html datenschutz.md
 	generate_php -v -n 5 -t $(titel) datenschutz.html datenschutz.php
+
+impulse.php: impulse.html impulse.md
+	generate_php -v -n 5 -t $(titel) impulse.html impulse.php
+
+konditorei.php: konditorei.html konditorei.md
+	generate_php -v -n 5 -t $(titel) konditorei.html konditorei.php
+
+sehnsucht.php: sehnsucht.html sehnsucht.md
+	generate_php -v -n 5 -t $(titel) sehnsucht.html sehnsucht.php
 
 clean:
 ifneq (,$(wildcard ./*.html))
