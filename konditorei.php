@@ -27,5 +27,6 @@ require_once("assets/include/header.php");
 </div>
 
 <?php
+require_once("assets/include/footer_home.php");
 require_once("assets/include/footer.php");
 ?>

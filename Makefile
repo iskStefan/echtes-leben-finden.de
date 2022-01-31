@@ -23,14 +23,17 @@ impressum.php: impressum.html impressum.md
 datenschutz.php: datenschutz.html datenschutz.md
 	generate_php -v -n 5 -t $(titel) datenschutz.html datenschutz.php
 
-impulse.php: impulse.html impulse.md
-	generate_php -v -n 5 -t $(titel) impulse.html impulse.php
+%.php: %.html
+	generate_php -v -n 5 -t $(titel) -f footer_home.php $*.html $*.php
 
-konditorei.php: konditorei.html konditorei.md
-	generate_php -v -n 5 -t $(titel) konditorei.html konditorei.php
+#impulse.php: impulse.html impulse.md
+#	generate_php -v -n 5 -t $(titel) impulse.html impulse.php
 
-sehnsucht.php: sehnsucht.html sehnsucht.md
-	generate_php -v -n 5 -t $(titel) sehnsucht.html sehnsucht.php
+#konditorei.php: konditorei.html konditorei.md
+#	generate_php -v -n 5 -t $(titel) konditorei.html konditorei.php
+
+#sehnsucht.php: sehnsucht.html sehnsucht.md
+#	generate_php -v -n 5 -t $(titel) sehnsucht.html sehnsucht.php
 
 clean:
 ifneq (,$(wildcard ./*.html))
