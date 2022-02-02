@@ -10,7 +10,13 @@ Jesus Christus spricht: "Ich bin das Brot des Lebens. Wer zu mir kommt, den wird
 
 [Impulse](impulse.php)
 
+<hr>
+                                                                               Heute schon [nachgedacht?](https://www.lebenistmehr.de/leben-ist-mehr.html)
+                                                                               
+ ![](images/gp04.jpg)
+ 
+ 
 
 
 
-27.01.2022
+02.02.2022

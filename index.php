@@ -16,7 +16,10 @@ require_once("assets/include/header.php");
 <p>Jesus Christus spricht: “Ich bin das Brot des Lebens. Wer zu mir kommt, den wird nicht hungern; <br> und wer an mich glaubt, den wird nimmermehr dürsten.” Joh.6,35</p>
 <p><img src="images/brot.png" class="img-fluid" /></p>
 <p><a href="impulse.php">Impulse</a></p>
-<p>27.01.2022</p>
+<hr>
+<p>Heute schon <a href="https://www.lebenistmehr.de/leben-ist-mehr.html">nachgedacht?</a></p>
+<p><img src="images/gp04.jpg" class="img-fluid" /></p>
+<p>02.02.2022</p>
 
 	</div>
 

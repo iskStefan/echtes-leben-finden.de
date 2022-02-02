@@ -27,7 +27,7 @@ require_once("assets/include/header.php");
 <p>…. also drücken wir doch auf den Türöffner mit dem Namen Jesu Christus.</p>
 <p>So will auch dieser Tag eine Einladung sein,</p>
 <p>in das Haus Gottes zu kommen, durch unserer Vertrauen zu Jesus Christus.</p>
-<p>Er ist übrigens der der Sohn vom Hausherrn.                              RL</p>
+<p>Er ist übrigens der Sohn vom Hausherrn.                              RL</p>
 
 	</div>
 

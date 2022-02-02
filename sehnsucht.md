@@ -29,5 +29,5 @@ So will auch dieser Tag eine Einladung sein,
 
 in das Haus Gottes zu kommen, durch unserer Vertrauen zu Jesus Christus.
 
-Er ist übrigens der der Sohn vom Hausherrn.                              RL
+Er ist übrigens der Sohn vom Hausherrn.                              RL
 
