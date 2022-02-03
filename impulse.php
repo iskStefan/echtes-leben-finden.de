@@ -12,7 +12,7 @@ require_once("assets/include/header.php");
 	<br>
 	<div class="jumbotron">
 <h2 class="h2_top">Impulse</h2>
-<h4 id="die-konditorei">Die Konditorei!</h4>
+<h4 id="die-konditorei">Die Konditorei</h4>
 <p><img src="images/brot_kl.png" class="img-fluid" /></p>
 <p><a href="konditorei.php">Eine etwas nachdenkliche Geschichte</a></p>
 <hr>

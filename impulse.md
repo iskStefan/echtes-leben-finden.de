@@ -1,6 +1,6 @@
 ## Impulse
 
-#### Die Konditorei!
+#### Die Konditorei
 
 ![](images/brot_kl.png)
 

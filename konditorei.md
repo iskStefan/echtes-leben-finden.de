@@ -1,4 +1,4 @@
-## Die Konditorei!
+## Die Konditorei
 
 Eine Reisegruppe betritt auf ihrer Städtetour eine Konditorei.
 Da gerade keiner im Laden ist, schauen sich die Teilnehmer der
