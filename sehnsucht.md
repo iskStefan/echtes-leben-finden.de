@@ -5,7 +5,7 @@ ist für den Menschen in dieser kalten Welt,
 
 wie ein großes schönes Haus vor dem er steht.
 
-Das Haus verspricht, Wärme und Schutz.
+Das Haus verspricht Wärme und Schutz.
 
 Das tut der Seele gut, gibt Trost und Hoffnung.
 
@@ -19,7 +19,7 @@ bekommt er einen Namen.
 
 "Ich bin die Tür....." sagt uns Jesus Christus in Joh. 10,7.
 
-"Ich bin der Weg, und die Wahrheit und das Leben;
+"Ich bin der Weg und die Wahrheit und das Leben;
 
 niemand kommt zum Vater außer durch mich." Johannes.14,6
 

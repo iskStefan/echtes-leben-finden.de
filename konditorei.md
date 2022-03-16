@@ -9,10 +9,10 @@ sowie der verschiedenen Brötchen und Gebäckstücke.
 Kuchen in allen möglichen Geschmacksrichtungen ... für jeden etwas dabei.
 Wunderschön verzierten Torten mit Sahne-, Obst- und Cremefüllungen und vieles mehr.
 
-Nach einer Weile, war noch immer keine Verkäuferin zu sehen.
+Nach einer Weile war noch immer keine Verkäuferin zu sehen.
 Da beginnen die Teilnehmer eine Diskussion,
 wie die ganzen Back- und Konditorwaren entstehen konnten.
-ine Person, die vorgab sich auszukennen, erzählt etwas von einer Mehlstaub-Explosion in der Backstube.
+Eine Person, die vorgab sich auszukennen, erzählt etwas von einer Mehlstaub-Explosion in der Backstube.
 
 Er erklärte, dass ja die ganzen Bestandteile der angebotenen Waren nur Mehl, Zucker, Hefe,
 Ei und andere bekannte Zutaten sind.
@@ -22,7 +22,7 @@ Eine der Anwesenden erwiderte darauf hin, dass das ja auf Grund der Ordnung, der
 und der großen Vielfalt nicht ohne einen Bäcker gehen könnte.
 Dahinter stehe ein Plan und viel Wissen, da es sonst alles ein großer Einheitsbrei geworden wäre.
 "Hast Du den Bäcker schon gesehen?" lachte ein anderer....."Nein , aber ..." ...
-"Dann behaupte doch nicht soetwas!", wurde der Person entgegnet.
+"Dann behaupte doch nicht so etwas!", wurde der Person entgegnet.
 
 Nun, ... das Gespräch kann jeder von Euch gerne noch weiter entwickeln....
 Aber nur weil ich eine Person nicht sehen kann, heißt das nicht, dass es diese Person nicht gibt.
