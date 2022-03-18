@@ -236,8 +236,12 @@ figcaption {
   font-size: 90%;
 }
 
+img {
+  max-width: 100%;
+}
+
 .figure img {
-  width: 100%;
+  max-width: 100%;
 }
 
 .h2_top {

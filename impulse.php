@@ -13,10 +13,16 @@ require_once("assets/include/header.php");
 	<div class="jumbotron">
 <h2 class="h2_top">Impulse</h2>
 <h4 id="die-konditorei">Die Konditorei</h4>
-<p><img src="images/brot_kl.png" class="img-fluid" /></p>
+<div class="figure">
+<img src="images/brot_kl.png" />
+
+</div>
 <p><a href="konditorei.php">Eine etwas nachdenkliche Geschichte</a></p>
 <hr>
-<p><img src="images/kondi-2.png" class="img-fluid" /></p>
+<div class="figure">
+<img src="images/kondi-2.png" />
+
+</div>
 <p><a href="sehnsucht.php">… des Menschen Sehnsucht</a></p>
 <hr>
 <p><a href="index.php">Home</a></p>

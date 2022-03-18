@@ -1,5 +1,5 @@
 #src_files = index.md ueber_uns.md
-trg_files = index.php ueber_uns.php kontakt.php impressum.php datenschutz.php impulse.php konditorei.php sehnsucht.php
+trg_files = index.php ueber_uns.php kontakt.php impressum.php datenschutz.php impulse.php konditorei.php sehnsucht.php Naehe-Dis.php
 
 titel = "Echtes Leben finden"
 
